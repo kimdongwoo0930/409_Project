@@ -58,7 +58,7 @@
 
 
    
-7. 안드로이드 스튜딩오 환경변수 설정해주기
+7. 안드로이드 스튜디오 환경변수 설정해주기
 * 자세한 설명은 참고하세요
 * https://voidfunction-e.tistory.com/entry/%EC%9C%88%EB%8F%84%EC%9A%B0%EC%97%90-react-native-%EA%B0%9C%EB%B0%9C-%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0
 
