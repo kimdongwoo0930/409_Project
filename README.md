@@ -1,6 +1,6 @@
 # 개발환경 구축 (윈도우 기준)
 
-### 프론트(React-native)
+### 프론트 (React-native)
 1.
     chocolately 설치하기
     
@@ -58,9 +58,21 @@
 
 
    
-7. 안드로이드 스튜디오 환경변수 설정해주기
+7. 안드로이드 스튜딩오 환경변수 설정해주기
 * 자세한 설명은 참고하세요
 * https://voidfunction-e.tistory.com/entry/%EC%9C%88%EB%8F%84%EC%9A%B0%EC%97%90-react-native-%EA%B0%9C%EB%B0%9C-%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0
 
 8. 직접 프로젝트 생성하지말고 자기 브랜치에 있는 Frontend 파일을 클론해서 작업하기
 
+
+---
+### 백엔드 (Spring-boot)
+1. 자바 설치 및 환경 변수 설정 (openjdk-18)
+-
+2. Intellij 다운받기 ( 홈페이지에서 대학생 인증하시고 다운하면 유료버전을 무료로 사용가능)
+-
+3. File - New - Project from Version Control 선택 
+-
+4. Github 로그인 후 프로젝트 파일 가져오기
+-
+5. 개발 완료 후에는 자기 브랜치 생생 해서 자기 브랜치로 푸시 하기
